@@ -1,0 +1,20 @@
+.topImg{
+background-color: #006eff96;
+width: 100px;
+height: 100px;
+border-radius: 50%;
+display: flex;
+justify-content: center;
+align-items: center;
+overflow: hidden;
+border-bottom: 3px solid #006eff;
+
+
+}
+.topImg img{
+    width: 100px;
+    height: 120px;
+  
+    object-fit: cover;
+    margin-left: 15px;
+}
