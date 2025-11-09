@@ -7,6 +7,7 @@
     backdrop-filter: blur(10px);
     border-bottom: 2px solid #1374f3;
     box-shadow: 0px 0px 10px #08185c;
+    height: 10vh;
 }
 .menu-icon{
     font-size: 100px;

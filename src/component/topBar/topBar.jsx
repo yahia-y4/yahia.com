@@ -5,7 +5,7 @@ export default function TopBar(){
     return(
         <>
         <div className='topBar'>
-              <TopImg/>
+      
             <h1 className='name'>Yahia Alhamoud</h1>
           
             <MenuIcon sx={{fontSize: 40, color: '#006effff'}} className='menu-icon'/>

@@ -1,0 +1,23 @@
+.mainImg{
+ 
+    width: 300px;
+    height: 300px;
+    border-radius: 20%;
+    border-bottom: 10px solid #006eff;
+
+
+
+    overflow: hidden;
+
+
+
+
+
+}
+.mainImg img{
+    width: 100%;
+    height: 100%;
+     object-fit: cover;
+       margin-left: 25px;
+       filter: grayscale(100%);
+}
