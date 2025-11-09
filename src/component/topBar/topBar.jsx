@@ -6,7 +6,7 @@ export default function TopBar(){
         <>
         <div className='topBar'>
       
-            <h1 className='name'>Yahia Alhamoud</h1>
+            <h1 className='name'>Yahia Alhamoud | يحيى الحمود</h1>
           
             <MenuIcon sx={{fontSize: 40, color: '#006effff'}} className='menu-icon'/>
 
