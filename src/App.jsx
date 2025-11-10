@@ -8,11 +8,13 @@ function App() {
 
 
   return (
-   
+   <>
+   <TopBar/>
     <div className='overlay'>
-    <TopBar/>
     <MainPage/>
     </div>
+    </>
+    
   
   )
 }

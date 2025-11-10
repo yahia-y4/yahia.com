@@ -1,0 +1,14 @@
+.lan-comp{
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    direction: ltr;
+    background-color: #006effff;
+    width: 80px;
+    height: 40px;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 5px;
+}

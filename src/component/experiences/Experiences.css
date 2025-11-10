@@ -1,0 +1,47 @@
+.experiences{
+   
+    margin-top: 100px;
+   
+    width: 100%;
+    text-align: center;
+
+}
+.experiences-title{
+ color: #006effff;
+ font-size: 30px;
+ font-weight: bold;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ border-bottom: 2px solid #006effff;
+ width: 200px;
+ text-align: center;
+ margin: 0 auto;
+ margin-bottom: 80px;
+ border-radius: 10px;
+}
+.Languages{
+    
+    width: 100%;
+    direction: rtl;
+}
+.Languages-title{
+color: #bdd9ff;
+font-size: 20px;
+font-weight: bold;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+border-bottom: 2px solid #bdd9ff;
+padding-bottom: 10px;
+    
+}
+
+.Languages-container{
+    margin: 0 auto;
+    width: 90%;
+   
+    margin-top: 30px;
+    height: fit-content;
+    display: flex;
+    flex-wrap: wrap;
+    
+    justify-content: center;
+    align-items: center;
+}

@@ -1,9 +1,10 @@
 
 .top-info {
-
+margin-top: 20px;
     display:flex;
     flex-direction: column;
     align-items: center;
+   
   
 }
 .title{
@@ -17,7 +18,7 @@
 .description{
     text-align: center;
     direction: rtl;
-    color: rgb(189, 217, 255);
+    color: #bdd9ff;
     font-size: 20px;
     font-weight: 500;
     line-height: 2;
@@ -25,4 +26,8 @@
     width: 40%;
     min-width: 300px;
     text-shadow: 0px 10px 10px #17152783;
+}
+.contact{
+    background-color: #006effff;
+    padding: 10px;
 }
