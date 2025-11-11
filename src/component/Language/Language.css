@@ -6,7 +6,8 @@
     text-align: center;
     direction: ltr;
     background-color: #006effff;
-    width: 80px;
+    width: fit-content;
+    min-width: 80px;
     height: 40px;
     border-radius: 5px;
     margin: 10px;
