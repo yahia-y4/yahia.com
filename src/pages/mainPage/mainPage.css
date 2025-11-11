@@ -8,3 +8,11 @@
     overflow: auto;
 
 }
+.bottom-btns{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+    width: 300px;
+    margin-bottom: 100px;
+}
